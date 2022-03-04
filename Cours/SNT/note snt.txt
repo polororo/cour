@@ -1,0 +1,15 @@
+RGB: 3 couleurs élémentaire (Red, Green, Blue)
+
+Ensemble de toutes les couleurs = blanc
+Absence de toutes les couleurs = noir
+
+Conditions nécessaire pour voir une couleur: 
+avoir de la lumière qui se réflechit sur l'objet 
+
+"QR" Code (Quick read/response) surface composé de blanc/noir
+qui pointe vers une information
+
+Pixel (Picture x Element): Un "carré" qui est une surface élémentaire 
+qui constitue l'image
+
+Il y a une seule couleur dans un pixel

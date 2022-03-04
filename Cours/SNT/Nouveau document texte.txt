@@ -1,0 +1,13 @@
+En théorie
+1 pixel = 16777216 couleurs (256*256*256)
+
+1 octet = nombre de 0 à 256
+= 8 bits (1 byte)
+
+1 pixel = 3 octets = 24 bits
+
+En noir et blanc: 1 pixel = 2 couleurs (1 bit)
+
+Au lycée, l'écran est en 1600*900, soit 1 440 000 pixel (24 bits)
+					4 320 000 octets (4.3mo)
+					34 560 000 bits 
